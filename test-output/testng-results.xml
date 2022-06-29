@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-29T09:16:49 CDT" name="Default suite" finished-at="2022-06-29T09:17:12 CDT" duration-ms="22696">
+    <groups>
+    </groups>
+    <test started-at="2022-06-29T09:16:49 CDT" name="Default test" finished-at="2022-06-29T09:17:12 CDT" duration-ms="22696">
+      <class name="TestNGAnnotations">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestNGAnnotations@66498326]" started-at="2022-06-29T09:16:49 CDT" name="init" finished-at="2022-06-29T09:16:53 CDT" duration-ms="3859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:1, instance:TestNGAnnotations@66498326]" started-at="2022-06-29T09:16:53 CDT" name="login" finished-at="2022-06-29T09:17:12 CDT" duration-ms="18664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNGAnnotations@66498326]" started-at="2022-06-29T09:17:12 CDT" name="tearDown" finished-at="2022-06-29T09:17:12 CDT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
